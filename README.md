@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @aza954
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">🚀 Hello! My name is Dmitry Severtsov. I am studying the backend 🚀</div>  
+  
+
+- 🍥 I’m 19 y.o.  
+  
+
+- 🎓 I study at  Yaroslavl State Technical University (YSTU)  
+  
+
+- ♨️ I’m currently learning Java  
+  
+
+<br/>  
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -34,4 +47,38 @@
 <br/>  
 
 
+## Connect with me  
+<div align="center">
+<a href="https://github.com/aza954" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
+<br/>  
+
+
+## Github Stats  
+  
+
+<br/>  
+
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
