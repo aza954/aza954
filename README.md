@@ -18,8 +18,8 @@
 <br/>  
 
 
-<div align="center">
-  My Skill Set
+<div text- align="center">
+ <b>My Skill Set</b>
 </div>
 <br/>  
 
