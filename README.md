@@ -41,7 +41,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aza954)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
-  <a href="https://github.com/aza954"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aza954)](https://github.com/anuraghazra/github-readme-stats" alt="aza954's github stats"></a>
+  <a href="https://github.com/aza954"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aza954" alt="aza954's github stats"></a>
 </p>
  
 
