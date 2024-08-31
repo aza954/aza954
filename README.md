@@ -5,9 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-**Currently Learn:**
 <div align="center">
+**Currently Learn:**
+
 <a href="https://www.java.com/en/download/manual.jsp" title="Java"><img src="aza954-main/icons/icons8-java-34.png" /></a>
 <a href="https://spring.io/projects/spring-framework" title="Spring"><img src="aza954-main/icons/icons8-spring-boot-30.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="aza954-main/icons/git.png" /></a>
