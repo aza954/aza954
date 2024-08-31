@@ -19,7 +19,7 @@
 
 
 <div align="center">
-  ## My Skill Set
+  My Skill Set
 </div>
 <br/>  
 
