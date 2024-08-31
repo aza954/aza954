@@ -1,5 +1,5 @@
 <div align="center">
-<img src="aza954-main/icons/IMG_9634.PNG" align="center" style="width: 100%" />
+<img src="aza954-main/icons/IMG_9634.PNG" align="center" style="width: 20%" />
 </div>  
   
 
