@@ -3,19 +3,23 @@
 </div>  
   
 
-### <div align="center">🚀 Hello! My name is Dmitry Severtsov. I am studying the backend 🚀</div>  
+### <div align="center">🚀 Hello! My name is Dmitry Severtsov. 🚀</div>  
   
 
-- 🍥 I’m 19 y.o.  
+- 🍥19 y.o.  
   
 
-- 🎓 I study at  Yaroslavl State Technical University (YSTU)  
+- 🌐 Studying the backend  
   
 
-- ♨️ I’m currently learning Java  
+- ♨️ Currently learning Java  
+  
+
+- 🎓 Study at Yaroslavl State Technical University (YSTU)  
   
 
 <br/>  
+
 
 
 <div text- align="center">
